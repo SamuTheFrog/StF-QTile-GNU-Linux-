@@ -7,10 +7,10 @@
 
 # -= Requirements =-
   -= REQUIRED =-
-        OS: x86_64 Arch Linux
-        WM: QTile
-        Terminal: Alacritty
-        Shell: Fish
+        * OS: x86_64 Arch Linux
+        * WM: QTile
+        * Terminal: Alacritty
+        * Shell: Fish
   -= RECOMMENDED =-
-        picom (for rendering effects and transitions, gpu recommended)
-        nitrogen (set and load wallpaper, GPU recommended)
+        * picom (for rendering effects and transitions, gpu recommended)
+        * nitrogen (set and load wallpaper, GPU recommended)
