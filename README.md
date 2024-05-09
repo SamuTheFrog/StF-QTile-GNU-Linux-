@@ -14,14 +14,3 @@
   -= RECOMMENDED =-
         picom (for rendering effects and transitions, gpu recommended)
         nitrogen (set and load wallpaper, GPU recommended)
-
-# -= Instructions =-
-  archQzen is divided into two main branches; Desktop & Mobile
-    Desktop was made with no restraints, and should only be used on a Desktop PC with an active primary GPU.
-    Mobile was made with power saving & a laptop oriented input scheme in mind. It was also made being even more lightweight than the desktop branch, electing to drop picom & nitrogen.
-    Please refer to "-= Desktop =-" for Desktop instructions, if on a Laptop or similar Mobile Device, follow the "-= Mobile =-" instructions
-
-    -= Desktop =-
-     -
-    -= Mobile =-
-     -
