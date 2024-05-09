@@ -18,9 +18,5 @@
 # -= Instructions =-
   archQzen is divided into two main branches; Desktop & Mobile
     Desktop was made with no restraints, and should only be used on a Desktop PC with an active primary GPU.
-    Mobile was made with power saving & a laptop input scheme in mind. It was also made being even more lightweight than the desktop branch, electing to drop picom & nitrogen.
-
-  -= Desktop =-
-      
-  -= Mobile =-
-    
+    Mobile was made with power saving & a laptop oriented input scheme in mind. It was also made being even more lightweight than the desktop branch, electing to drop picom & nitrogen.
+    The branch you select will determine further instructions.
