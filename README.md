@@ -8,3 +8,6 @@ archQzen is a lightweight, high performance, minimalistic pre-configuration made
 # -= Requirements =-
 * OS: Arch Linux x86_64
 * WM: Qtile
+* Terminal: Alacritty
+* Shell: Fish
+* Extra Software: fastfetch firefox vim thunar nitrogen picom fish zip unzip godot gimp blender
