@@ -5,9 +5,16 @@ archQzen is a lightweight, high performance, minimalistic pre-configuration made
 
 * If on a mobile device, uncomment (delete the "#") @ line 68 in the file "picom.conf" found @ "~/.config/picom"
 
+# -= Instructions =-
+Again, this is a WIP so, don't expect thorough instructions or ease of use, yet.
+First, you'll need to make sure to match the below requirements, including installing all required packages.
+
 # -= Requirements =-
 * OS: Arch Linux x86_64
 * WM: Qtile
 * Terminal: Alacritty
 * Shell: Fish
-* Extra Software: fastfetch firefox vim thunar nitrogen picom fish zip unzip godot gimp blender
+* Required Packages / Programs :
+fastfetch firefox thunar nitrogen picom fish
+* Not Required but highly recommended Packages / Programs:
+zip unzip godot gimp blender vim 
