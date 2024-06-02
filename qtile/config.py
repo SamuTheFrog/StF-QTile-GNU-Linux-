@@ -5,7 +5,7 @@ from libqtile.lazy import lazy
 from libqtile.utils import guess_terminal
 
 mod = "mod4"
-terminal = guess_terminal(),
+terminal = kitty(),
 
 keys = [
     Key([mod], "a", lazy.layout.left(), desc="Move focus to left"),
